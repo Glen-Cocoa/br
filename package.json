@@ -1,0 +1,19 @@
+{
+  "name": "broadwayroulette",
+  "version": "1.0.0",
+  "description": "prints favorite shows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glen-Cocoa/br.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glen-Cocoa/br/issues"
+  },
+  "homepage": "https://github.com/Glen-Cocoa/br#readme"
+}
